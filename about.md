@@ -18,7 +18,7 @@ header-img: "img/green.jpg"
 # 个人信息
 
 *   RedRainCopper/男/1992
-*   本科/广东大学 
+*   专科/广州大学 
 *   技术博客: <http://www.RedRainCopper.com>
 *   Github: <https://github.com/RedRainCopper>
 *   目前就职于：BGSoft
