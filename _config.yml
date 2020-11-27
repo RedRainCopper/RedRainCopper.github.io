@@ -1,28 +1,22 @@
 # Site settings
-title: RedRainCopper
-subtitle : RedRainCopper
+title: copper
+subtitle : copper
 header-img: "img/facebook.jpg"
 tagline: "cn"  
-description: "RedRainCopper|Think Different"  
+description: "copper|Think Different"  
 baseurl: ""
-url: "http://RedRainCopper.github.io"  
+url: "http://copper.github.io"  
 
 # About/contact
 owner: 
-  name: "RedRainCopper"
-  email: RedRainCopper@gmail.com
+  name: "copper"
+  email: copper@gmail.com
   bio: ""
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
 favicon: img/favicon.png
 
-douban_username:  
-twitter_username: 
-github_username: RedRainCopper
-weibo_username: RedRainCopper
-facebook_username:
-zhihu_username: RedRainCopper
 
 # Build settings  
 # use Github Flavored Markdown !important  
@@ -45,16 +39,9 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "RedRainCopper"
+      author: "copper"
       header-img: "img/facebook.jpg" # We don't want posts without a header image, that whould mean white on white
 
-# Comments 
-comments :
-  provider : duoshuo
-  duoshuo :
-    short_name : hanson
-  disqus :
-      short_name : hanson
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: 
